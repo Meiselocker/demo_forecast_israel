@@ -9,7 +9,7 @@ The projections are calculated using enhanced Leslie Matrices accounting for dyn
 Although the subject is not addressed here, projections are presented by age groups, in order to easily model shifts in fertility tempi (mothering age), which might be of significant consequences on the population trajectories.
 
 ## Contents
-The **.csv files** are the raw data obtained from the statistical reports of the Central Bureau of Statistics. The **Jupyter Notebook presentation.ipynb** presents the scientific reasoning behind the calculations and provides the Python code for the projections as well as an interactive visualization tool. 
+The **.csv files** are the raw data obtained from the statistical reports of the Central Bureau of Statistics. The **Jupyter Notebook presentation.ipynb** presents the scientific reasoning behind the calculations and provides the Python code for the projections as well as an interactive visualization tool. The folders imgs contain linear algebra illustrations used in the model. 
 
 ## Requirements
 The Jupyter Notebook is written in Python 3. The following libraries are used:
