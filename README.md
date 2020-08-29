@@ -15,5 +15,9 @@ The **.csv files** are the raw data obtained from the statistical reports of the
 The Jupyter Notebook is written in Python 3. 
 
 The following libraries are used:
-Numpy, Pandas, Matplotlib, Bokeh.
+
+- Numpy
+- Pandas
+- Matplotlib
+- Bokeh.
 
