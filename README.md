@@ -12,6 +12,8 @@ Although the subject is not addressed here, projections are presented by age gro
 The **.csv files** are the raw data obtained from the statistical reports of the Central Bureau of Statistics. The **Jupyter Notebook presentation.ipynb** presents the scientific reasoning behind the calculations and provides the Python code for the projections as well as an interactive visualization tool. The folder **imgs** contains linear algebra illustrations used in the model. 
 
 ## Requirements
-The Jupyter Notebook is written in Python 3. The following libraries are used:
+The Jupyter Notebook is written in Python 3. 
+
+The following libraries are used:
 Numpy, Pandas, Matplotlib, Bokeh.
 
